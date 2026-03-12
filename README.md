@@ -9,7 +9,7 @@ This repository contains the minimal dataset and analysis code for the study:
 
 ### Code Files
 - `analysis_scripts/` - Python scripts for reproducing all statistical analyses and figures
-- `requirements.txt` - Python package dependencies
+  
 ## Minimal Dataset Description
 The dataset represents the **independent test set** used for final model evaluation, containing:
 ### Core Data Structure
